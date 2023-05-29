@@ -14,3 +14,8 @@ If you stupd and use Windows just download zip here - https://github.com/imstupd
 
         Delay:
             In seconds between check. Need if scanners block you proxy.
+
+
+
+
+![image](https://github.com/imstupd/stupd_balance_checker_L0/assets/133728995/164584a4-d649-4277-bf85-69d40404101d)
