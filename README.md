@@ -1,4 +1,4 @@
-# stupd_balance_checker_L0
+# stupd_balance_checker_L0 (Only native)
 If you stupd and use Windows just download zip here - https://github.com/imstupd/stupd_balance_checker_L0/releases/tag/Windows
 
     Config:
