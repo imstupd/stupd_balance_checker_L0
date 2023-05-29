@@ -1,0 +1,4 @@
+{
+  "scanners": "snowtrace.io, bscscan.com, polygonscan.com, optimistic.etherscan.io, arbiscan.io",
+  "deelay": 2
+}
